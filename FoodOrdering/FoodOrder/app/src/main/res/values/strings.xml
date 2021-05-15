@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+
+
+    <string name="hutieu">Tô hủ tiếu ngon thường có nước lèo trong, sợi bánh trắng, điểm vài miếng thịt, tim, gan, lòng heo, trứng cút, có khi tôm, thịt nạc bằm, kèm theo hẹ, xà lách, hành, giá sống, chanh ớt. Nguyên liệu ăn kèm khá phong phú nên thực khách có thể thoải mái lựa chọn thịt nạc, lòng, xương hay hải sản. </string>
+
+
+    <string name="banhxeo">Nhắc đến bánh xèo, người ta thường nhớ ngay đến thứ bánh ăn vặt, ăn chơi, rất ngon miệng và hấp dẫn của miền Nam Việt Nam. Bánh xèo thì có ở khắp các vùng miền của nước ta, mỗi một vùng miền sẽ có hương vị riêng rất độc đáo. Đến với miền Nam, thực khách sẽ được thưởng thức những chiếc bánh xèo vàng ruộm, ăn kèm với các loại rau củ quả tươi mát, đem lại một cảm giác ngon khó tả cho người thưởng thức.</string>
+
+
+    <string name="bunbohue">Bún bò Huế là một đặc sản của ẩm thực Huế, tùy là bún bò nhưng ngoài thịt bò còn có thịt heo. Hương vị đặc biệt của món ăn này chủ yếu là ở vị cay nồng, mùi sả đặc trưng  của nước lèo. Vốn là một hương vị Huế không lẫn vào đâu được và chính điều đó khiến người ăn cứ nhớ mãi về món ăn này.</string>
+
+
+    <string name="banhuot">Bánh ướt (hay bánh cuốn) là một trong những món ăn Việt Nam có cách chế biến và cách dùng rất phong phú và đa dạng. Nguồn gốc xuất xứ của bánh là từ Trung Quốc, nhưng khi vào Việt Nam ở từng vùng khác nhau, bánh ướt lại được chế biến rất sáng tạo và mang từng hương vị độc đáo riêng.</string>
+
+
+    <string name="comtam">Sài Gòn là vùng đất đa văn hoá, ẩm thực Sài Gòn vì thế cũng pha trộn hương vị của nhiều vùng miền. Tuy nhiên, với cơm tấm thì khác, tới mức người ta vẫn nói với nhau rằng “Đến Sài Gòn mà chưa ăn cơm tấm là chưa thật sự đến Sài Gòn”. Thật vậy, món cơm tấm dù có ở nơi nào cũng không thể tìm thấy cái cảm giác và hương vị như được ăn ở Sài Gòn.</string>
+
+
+    <string name="buncha">Hà Nội có tới khoảng trên dưới 15 món bún khác nhau, nhưng khi nhắc đến Bún, đầu tiên phải kể đến đó là Bún Chả. Không ai biết rõ Bún Chả có từ bao giờ. Ông tổ của món ăn này chưa thấy được hậu thế ghi lại. Chỉ biết là từ rất lâu rồi, Bún Chả đã xuất hiện trên khắp các nẻo đường Hà Nội và đi vào trong các tác phẩm văn chương nổi tiếng.</string>
+
+    <string name="pho">Hương vị của món ăn này hội tụ đầy đủ những gì tinh túy nhất trong ẩm thực Việt Nam. Nhiều du khách quốc tế đến tham quan, du lịch tại Việt Nam, ngoài việc khám phá những địa điểm tham quan nổi tiếng, ai cũng từng một lần vào quán, gọi tô Phở nóng hổi để thưởng thức, mà không phải gọi bằng từ tiếng Anh là “noodle” gọi thẳng là “Phở”</string>
+
+    <string name="raucaudua">Rau câu là một món ăn nhẹ làm từ bột rau câu (hay bột agar) hoặc bột gelatin có bổ sung thêm mùi vị. Nó thường được tạo ra bằng cách nấu các loại bột này với nước, sau đó bổ sung với các nguyên phụ liệu khác.</string>
+
+    <string name="chebamau">Không chỉ giúp giải nhiệt cơ thể trong mùa hè nóng bức mà chè còn chứa các chất dinh dưỡng tốt cho sức khỏe.Với mọi người từ trẻ tới lớn tuổi đều không xa lạ gì với món chè giải nhiệt, thanh mát. Cùng với đó, có nhiều cách chế biến tạo ra các hương vị chè độc đáo, khác lạ.</string>
+
+
+</resources>
